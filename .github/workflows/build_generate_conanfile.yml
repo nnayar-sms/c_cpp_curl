@@ -9,4 +9,4 @@ on:
 
 jobs:
   build:
-    uses: owner/repo/.github/workflows/build.yml@main
+    uses: nnayar-sms/generate_conanfile/.github/workflows/build.yml@main
